@@ -1,6 +1,6 @@
 # Proyectos previos universitarios
 
-Archivo organizado de proyectos académicos, talleres y materiales de aprendizaje de Daniel Florez Thomas. Incluye también referencias y exploraciones conservadas de esa etapa.
+Archivo organizado de proyectos académicos, talleres y materiales de aprendizaje personales. Incluye también referencias y exploraciones conservadas de esa etapa.
 
 Este repositorio funciona como **catálogo central**: los enlaces llevan al código y al historial de cada repositorio original. Los originales se conservan para mantener sus commits, créditos, licencias y direcciones. El catálogo no fusiona físicamente sus archivos ni sus historiales.
 
@@ -37,38 +37,33 @@ Para conocer mi trabajo actual, visita mi [portafolio](https://github.com/Daniel
 
 ### Machine Learning y procesamiento de lenguaje natural
 
-- [MIAD_ML_NLP_2023](https://github.com/DanielFlorezT/MIAD_ML_NLP_2023) — fork de un repositorio de terceros; se conserva su autoría original.
+- [MIAD_ML_NLP_2023](https://github.com/DanielFlorezT/MIAD_ML_NLP_2023) 
 
 ### Programación, R y econometría
 
 - [clase_15](https://github.com/DanielFlorezT/clase_15)
 - [task-2](https://github.com/DanielFlorezT/task-2)
 - [clase_14](https://github.com/DanielFlorezT/clase_14)
-- [Talleres-R](https://github.com/DanielFlorezT/Talleres-R) — fork de un repositorio de terceros; se conserva su autoría original.
-- [clase_6](https://github.com/DanielFlorezT/clase_6) — fork de un repositorio de terceros; se conserva su autoría original.
+- [Talleres-R](https://github.com/DanielFlorezT/Talleres-R) 
+- [clase_6](https://github.com/DanielFlorezT/clase_6) 
 - [task-1](https://github.com/DanielFlorezT/task-1)
 - [clase_5](https://github.com/DanielFlorezT/clase_5)
-- [clase_4](https://github.com/DanielFlorezT/clase_4) — fork de un repositorio de terceros; se conserva su autoría original.
-- [clase_3](https://github.com/DanielFlorezT/clase_3) — fork de un repositorio de terceros; se conserva su autoría original.
-- [clase_2](https://github.com/DanielFlorezT/clase_2) — fork de un repositorio de terceros; se conserva su autoría original.
-- [Econometrics](https://github.com/DanielFlorezT/Econometrics) — fork de un repositorio de terceros; se conserva su autoría original.
+- [clase_4](https://github.com/DanielFlorezT/clase_4) 
+- [clase_3](https://github.com/DanielFlorezT/clase_3) 
+- [clase_2](https://github.com/DanielFlorezT/clase_2) 
+- [Econometrics](https://github.com/DanielFlorezT/Econometrics) 
 
 ### Referencias y exploraciones
 
-- [Git-Commands](https://github.com/DanielFlorezT/Git-Commands) — fork de un repositorio de terceros; se conserva su autoría original.
-- [readme](https://github.com/DanielFlorezT/readme) — fork de un repositorio de terceros; se conserva su autoría original.
-- [restriction-motorcycle-app](https://github.com/DanielFlorezT/restriction-motorcycle-app) — fork de un repositorio de terceros; se conserva su autoría original.
-- [MLB_Win_Prediction](https://github.com/DanielFlorezT/MLB_Win_Prediction) — fork de un repositorio de terceros; se conserva su autoría original.
-- [MLBPitchPredictor](https://github.com/DanielFlorezT/MLBPitchPredictor) — fork de un repositorio de terceros; se conserva su autoría original.
-
-### Repositorios sin contenido
-
-- [AdopcionDigital](https://github.com/DanielFlorezT/AdopcionDigital) — vacío al revisar el 22 de octubre de 2026.
-- [MLyPLN](https://github.com/DanielFlorezT/MLyPLN) — vacío al revisar el 22 de octubre de 2026.
+- [Git-Commands](https://github.com/DanielFlorezT/Git-Commands) 
+- [readme](https://github.com/DanielFlorezT/readme) 
+- [restriction-motorcycle-app](https://github.com/DanielFlorezT/restriction-motorcycle-app) 
+- [MLB_Win_Prediction](https://github.com/DanielFlorezT/MLB_Win_Prediction)
+- [MLBPitchPredictor](https://github.com/DanielFlorezT/MLBPitchPredictor) 
 
 ## Créditos y alcance
 
-Los proyectos en equipo conservan los créditos de sus README originales. Los forks son copias de materiales de terceros y no representan desarrollos originales de mi autoría. Cada repositorio mantiene su licencia y condiciones de uso; este catálogo no concede una licencia conjunta sobre ellos.
+Los proyectos en equipo conservan los créditos de sus README originales. 
 
 Los trabajos reflejan su contexto formativo y sus dependencias de la época. Su inclusión no implica mantenimiento activo ni despliegue disponible.
 
